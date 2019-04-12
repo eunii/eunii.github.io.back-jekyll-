@@ -293,3 +293,5 @@ defaults:
       comments: # true
       share: true
       related: true
+header:
+  image: /assets/images/IMG_8900.JPG
