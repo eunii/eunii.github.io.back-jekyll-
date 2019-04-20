@@ -294,3 +294,8 @@ defaults:
       related: true
 header:
   image: /assets/images/IMG_1044.JPG
+  
+collections:
+  trip:
+    output: true
+    permalink: /:collection/:path/
