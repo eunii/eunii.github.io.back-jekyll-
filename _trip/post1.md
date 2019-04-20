@@ -2,7 +2,7 @@
 title: "Post1"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/sky2.jpg
+  image: /assets/images/20190126_112839.jpg
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
