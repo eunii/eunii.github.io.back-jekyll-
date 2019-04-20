@@ -1,5 +1,7 @@
 main:
-  - title: "Quick-Start Guide"
-    url: https://google.com
-  - title: "Posts"
-    url: /posts/
+  - title: "JAVA"
+    url: ../_posts/
+  - title: "DESIGN PATTERN"
+    url: ../posts/
+  - title: "ALGORITHM"
+    url: ../A/
