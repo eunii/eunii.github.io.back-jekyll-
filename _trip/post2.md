@@ -1,5 +1,5 @@
 ---
-title: "Ba11111z Boom Identity"
+title: "post2"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
