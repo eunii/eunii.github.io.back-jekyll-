@@ -310,4 +310,4 @@ header:
 collections:
   trip:
     output: true
-    permalink: /trip/:name
+    permalink: /trip/
