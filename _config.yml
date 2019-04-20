@@ -319,7 +319,7 @@ header:
 collections:
   trip:
     output: true
-    permalink: /trip/
+    permalink: /trip/index.html
   portfolio:
     output: true
     permalink: /:collection/:path/
