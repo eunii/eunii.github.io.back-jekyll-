@@ -1,7 +1,7 @@
 main:
-  - title: "JAVA"
-    url: ../_posts/
-  - title: "DESIGN PATTERN"
-    url: ../posts/
+  - title: "개발"
+    url: ../develope/
+  - title: "여행"
+    url: /trip/
   - title: "ALGORITHM"
     url: ../A/
