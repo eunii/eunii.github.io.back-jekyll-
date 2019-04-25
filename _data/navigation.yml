@@ -1,7 +1,7 @@
 main:
-  - title: "IT"
-    url: ../develop/
+  - title: "TECHNOLOGY"
+    url: ../WORLD-TRIP/
   - title: "세계일주"
     url: /trip/
-  - title: "잡동사니"
+  - title: "OTHERS"
     url: ../posts/
