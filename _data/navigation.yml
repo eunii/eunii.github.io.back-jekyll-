@@ -5,3 +5,25 @@ main:
     url: /trip/
   - title: "OTHERS"
     url: ../posts/
+
+trip:
+  - title: 아시아
+    children:
+      - title: 한국
+        url: /docs/quick-start-guide/
+      - title: 태국
+        url: /docs/structure/
+      - title: 싱가폴
+        url: /docs/installation/
+      - title: 라오스
+        url: /docs/upgrading/
+
+  - title: 유럽
+    children:
+      - title: 스위스
+        url: /docs/configuration/
+      - title: 이탈리아
+        url: /docs/navigation/
+      - title: 헝가리
+        url: /docs/ui-text/
+      - title: 오스트리아
