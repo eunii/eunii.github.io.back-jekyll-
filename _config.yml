@@ -300,10 +300,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-   # _others
+   # _tec
   - scope:
       path: ""
-      type: others
+      type: tec
     values:
       layout: single
       author_profile: true
@@ -323,7 +323,7 @@ collections:
   trip:
     output: true
     permalink: /:collection/:path/
-  others:
+  tec:
     output: true
     permalink: /:collection/:path/
 
