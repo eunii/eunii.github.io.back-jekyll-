@@ -300,7 +300,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
-        # _trip
+   # _others
+  - scope:
+      path: ""
+      type: others
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 
       
       
@@ -313,4 +323,8 @@ collections:
   trip:
     output: true
     permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
+
 search: true
