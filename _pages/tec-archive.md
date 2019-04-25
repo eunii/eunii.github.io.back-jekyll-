@@ -1,9 +1,9 @@
 ---
 layout: collection
-title: "OTHERS"
-collection: posts
-permalink: /posts/
+title: "TECHNOLOGY"
+collection: tec
+permalink: /tec/
 author_profile: false
 ---
 
-Sample document listing for the collection `_posts`.
+Sample document listing for the collection `_tec`.
