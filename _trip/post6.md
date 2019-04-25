@@ -1,6 +1,6 @@
 ---
 title: "Post6"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "post6 excpert."
 header:
   image: /assets/images/별그림.png
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -16,10 +16,10 @@ gallery:
     image_path: /assets/images/별그림.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    image_path: /assets/images/별그림.png
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    image_path: /assets/images/별그림.png
     alt: "placeholder image 3"
 ---
 
