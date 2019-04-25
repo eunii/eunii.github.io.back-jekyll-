@@ -6,14 +6,14 @@ header:
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/별그림.png
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/별그림.png
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: /assets/images/별그림.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
