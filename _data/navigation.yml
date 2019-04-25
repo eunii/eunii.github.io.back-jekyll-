@@ -1,7 +1,7 @@
 main:
-  - title: "개발"
-    url: ../develope/
-  - title: "여행"
+  - title: "IT"
+    url: ../develop/
+  - title: "세계일주"
     url: /trip/
-  - title: "ALGORITHM"
-    url: ../A/
+  - title: "잡동사니"
+    url: ../post/
