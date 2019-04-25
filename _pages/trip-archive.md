@@ -5,5 +5,7 @@ permalink: /trip/
 collection: trip
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "trip"
 ---
 
