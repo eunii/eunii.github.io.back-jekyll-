@@ -21,8 +21,10 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/별그림.png
     alt: "placeholder image 3"
-categories: [아시아, 한국]
+categories: [아시아, 한국, korea]
 tags: [hot, summer]
+
+taxonomy: korea
 ---
 
 이사진은 별그림 입니다
