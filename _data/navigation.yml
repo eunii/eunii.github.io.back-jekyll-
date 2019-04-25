@@ -1,7 +1,7 @@
 main:
   - title: "TECHNOLOGY"
-    url: ../WORLD-TRIP/
-  - title: "세계일주"
+    url: ../tec/
+  - title: "WORLD-TRIP"
     url: /trip/
   - title: "OTHERS"
     url: ../posts/
