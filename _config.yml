@@ -313,4 +313,4 @@ collections:
   trip:
     output: true
     permalink: /:collection/:path/
-
+search: true
