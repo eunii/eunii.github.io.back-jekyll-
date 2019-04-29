@@ -14,7 +14,7 @@ categories:
 
 원하는 테마프로젝트를 선택합니다. minimal-mistakes 테마를 선택하였습니다.
 
-##3. _config.yml 파일 복사하기
+## 3. _config.yml 파일 복사하기
 ![텍스트](/assets/images/_config.JPG)
 `remote_theme : mmistakes/minimal-mistakes` 추가 및 수정하기
 
