@@ -1,6 +1,6 @@
 ---
-title: "Post6"
-excerpt: "post6 excpert."
+title: "Trip1"
+excerpt: "첫번째 여행글 입니다.."
 header:
   image: /assets/images/별그림.png
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -24,7 +24,6 @@ gallery:
 categories: [아시아, 한국, korea]
 tags: [hot, summer]
 
-taxonomy: korea
 ---
 
 이사진은 별그림 입니다
