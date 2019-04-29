@@ -1,5 +1,5 @@
 ---
-layout: collections
+layout: collection
 title: "TECHNOLOGY"
 collection: tec
 permalink: /tec/
