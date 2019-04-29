@@ -8,16 +8,16 @@ categories:
 
 위와 같이 `닉네임.github.io` 이름으로 public 레포지토리를 만듭니다.
 
-![텍스트](/assets/images/createrepo.JPG)
+![캡쳐](/assets/images/createrepo.JPG)
 
 
 ## 2. 사용할 템틀릿 정하기
 
-여기서[jekyll-theme](https://github.com/topics/jekyll-theme) 원하는 테마프로젝트를 선택합니다. 
+여기서[(jekyll-theme)](https://github.com/topics/jekyll-theme) 원하는 테마프로젝트를 선택합니다. 
 
 minimal-mistakes 테마를 선택하였습니다.
 
-![텍스트](/assets/images/chtemplet.JPG)
+![캡쳐](/assets/images/chtemplet.JPG)
 
 
 
@@ -25,7 +25,7 @@ minimal-mistakes 테마를 선택하였습니다.
 
 `remote_theme : mmistakes/minimal-mistakes` 추가 및 수정하기
 
-![텍스트](/assets/images/_config.JPG)
+![이미지](/assets/images/_config.JPG)
 
 
 ## 4.index.html 복사하기
