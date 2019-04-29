@@ -86,3 +86,5 @@ ude gallery caption="This is a sample gallery to go along with this case study."
 ![캡쳐](/assets/images/trip1.JPG)
 
 ![캡쳐](/assets/images/trip2.JPG)
+
+## 참고:https://jekyllrb-ko.github.io/docs/collections/
