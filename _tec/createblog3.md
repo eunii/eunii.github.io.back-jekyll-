@@ -1,5 +1,5 @@
 ---
-title: "깃허브 블로그 만들기-Collection(콜렉션)만들기"
+title: "깃허브 블로그 만들기-콜렉션(Collection)만들기"
 categories:
   - blog
 ---
