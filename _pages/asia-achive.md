@@ -1,5 +1,6 @@
 ---
 title: 여행
+taxonomy: asia
 layout: collection
 permalink: /trip/asia/
 collection: trip/asia
