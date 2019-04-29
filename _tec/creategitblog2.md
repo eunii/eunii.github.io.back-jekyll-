@@ -17,6 +17,6 @@ tags:
 
 
 
-##2. 완성
-![캡처](/assets/images/testpost.jpg)
+## 2. 완성
+![캡처](/assets/images/testpost.JPG)
 
