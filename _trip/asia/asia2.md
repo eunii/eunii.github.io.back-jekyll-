@@ -1,5 +1,6 @@
 ---
 title: "asia2"
+taxonomy: asia
 excerpt: "첫번째 여행글 입니다.."
 header:
   image: /assets/images/별그림.png
