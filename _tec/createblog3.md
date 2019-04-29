@@ -57,8 +57,8 @@ classes: wide
 
 ```
 ---
-title: "Post6"
-excerpt: "post6 excpert."
+title: "Trip1"
+excerpt: "첫번째 여행글 입니다.."
 header:
   image: /assets/images/별그림.png
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -82,13 +82,18 @@ gallery:
 categories: [아시아, 한국, korea]
 tags: [hot, summer]
 
-taxonomy: korea
 ---
 
 이사진은 별그림 입니다
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
+이건 마지막 글입니다.
+ude gallery caption="This is a sample gallery to go along with this case study." %}
+
 
 ```
-## 4. 
+## 4. 완성
+
+![캡쳐](/assets/images/trip1.JPG)
+![캡쳐](/assets/images/trip2.JPG)
