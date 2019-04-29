@@ -7,8 +7,11 @@ categories:
 ## 1. /_config.yml파일 수정하기
 
 >collections:
+
 >  trip:
+
 >    output: true
+
 >    permalink: /:collection/:path/
     
 내용 추가
