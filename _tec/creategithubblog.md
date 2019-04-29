@@ -30,10 +30,7 @@ minimal-mistakes 테마를 선택하였습니다.
 
 ## 4.index.html 복사하기
 
-```---
-
-layout: home
-
+```---layout: home
 ---```
 
 위와 같이 index.html파일을 만듭니다.
