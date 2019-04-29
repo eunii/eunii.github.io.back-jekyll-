@@ -13,7 +13,7 @@ categories:
 
 ## 2. 사용할 템틀릿 정하기
 
-여기서[(jekyll-theme)](https://github.com/topics/jekyll-theme) 원하는 테마프로젝트를 선택합니다. 
+여기서[(jekyll-theme)](https://github.com/topics/jekyll-theme){: .btn.btn-default target="_blank" } 원하는 테마프로젝트를 선택합니다. 
 
 minimal-mistakes 테마를 선택하였습니다.
 
