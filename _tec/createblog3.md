@@ -16,17 +16,6 @@ collections:
 
 ```
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: false
-      related: true
   # _trip
   - scope:
       path: ""
@@ -85,7 +74,6 @@ tags: [hot, summer]
 ---
 
 이사진은 별그림 입니다
-
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 이건 마지막 글입니다.
@@ -96,4 +84,5 @@ ude gallery caption="This is a sample gallery to go along with this case study."
 ## 4. 완성
 
 ![캡쳐](/assets/images/trip1.JPG)
+
 ![캡쳐](/assets/images/trip2.JPG)
