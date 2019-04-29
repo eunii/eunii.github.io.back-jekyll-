@@ -8,8 +8,6 @@ categories:
 
 ```
 search: true
-  - title: "TECHNOLOGY"
-
 ```    
 위의 내용 추가
 
