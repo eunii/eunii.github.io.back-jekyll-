@@ -6,42 +6,43 @@ categories:
 
 ## 1. /_config.yml파일 수정하기
 
->collections:
+```
+collections:
+  trip:
+    output: true
+    permalink: /:collection/:path/
+```    
+위의 내용 추가
 
->  trip:
-
->    output: true
-
->    permalink: /:collection/:path/
-    
-내용 추가
-
->defaults:
->  # _posts
->  - scope:
->      path: ""
->      type: posts
->    values:
->      layout: single
->      author_profile: false
->      read_time: true
->      comments: true
->      share: false
->      related: true
->  # _trip
->  - scope:
->      path: ""
->      type: trip
->    values:
->      layout: single
->      author_profile: false
->      share: true
->      related: true
-
-내용 추가
+```
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: false
+      related: true
+  # _trip
+  - scope:
+      path: ""
+      type: trip
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      related: true
+```
+위의 내용 추가
 
 
 ## 2. _pages/trip-archive.md 파일 만들기
+
+```
 ---
 title: 여행
 layout: collection
@@ -51,9 +52,10 @@ entries_layout: grid
 classes: wide
 
 ---
-
+```
 ## 3._/trip/post1.md 파일 만들기
 
+```
 ---
 title: "Post6"
 excerpt: "post6 excpert."
@@ -87,6 +89,6 @@ taxonomy: korea
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-이건 마지막 글입니다.
 
+```
 ## 4. 
