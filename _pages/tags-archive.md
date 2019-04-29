@@ -1,6 +1,6 @@
 ---
 title: "Posts by tab"
-layout: categories
+layout: tags
 permalink: /tags/
 author_profile: false
 ---
