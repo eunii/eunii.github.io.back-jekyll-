@@ -6,7 +6,7 @@ categories:
 
 ## 1. `닉네임.github.io` 레포지토리 만들기
 
-위와 같이 `it닉네임.github.io` 이름으로 public 레포지토리를 만듭니다.
+위와 같이 `닉네임.github.io` 이름으로 public 레포지토리를 만듭니다.
 
 ![텍스트](/assets/images/createrepo.JPG)
 
