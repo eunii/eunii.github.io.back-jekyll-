@@ -1,5 +1,5 @@
 ---
-title: "깃허브 블로그 만들기-포스트 쓰기"
+title: "깃허브 블로그 만들기-포스트(Post) 쓰기"
 categories:
   - blog
 ---
