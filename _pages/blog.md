@@ -1,6 +1,6 @@
 ---
-title: blog
+title: tec
 layout: category
-permalink: /categories/blog/
+permalink: /categories/tec/
 taxonomy: blog
 ---
