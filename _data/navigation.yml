@@ -2,9 +2,9 @@ main:
   - title: "TECHNOLOGY"
     url: /categories/tec/
   - title: "WORLD-TRIP"
-    url: /trip/
+    url: /categories/trip/
   - title: "OTHERS"
-    url: ../posts/
+    url: /categories/others/
 
 trip:
   - title: 아시아
