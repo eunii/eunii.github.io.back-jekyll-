@@ -2,6 +2,6 @@
 layout: collection
 title: "TECHNOLOGY"
 collection: tec
-permalink: /tec/
+permalink: /categories/blog/
+taxonomy: blog
 author_profile: false
----
