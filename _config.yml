@@ -300,16 +300,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      related: true
    # _tec
   - scope:
       path: ""
       type: tec
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: # true
-      share: true
+      comments: true
+      share: false
       related: true
 
       
