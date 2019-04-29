@@ -2,7 +2,7 @@
 title: 여행
 layout: collection
 permalink: /trip/asia/
-collection: trip
+collection: trip/asia
 entries_layout: grid
 classes: wide
 sidebar:
