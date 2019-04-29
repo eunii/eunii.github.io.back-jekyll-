@@ -1,6 +1,6 @@
 ---
-title: tec
+title: 기술
 layout: category
 permalink: /categories/tec/
-taxonomy: trip
+taxonomy: tec
 ---
