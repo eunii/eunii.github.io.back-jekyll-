@@ -1,6 +1,6 @@
 main:
   - title: "TECHNOLOGY"
-    url: ../tec/
+    url: /categories/blog/
   - title: "WORLD-TRIP"
     url: /trip/
   - title: "OTHERS"
