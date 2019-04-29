@@ -2,6 +2,8 @@
 title: "깃허브 블로그 만들기-제키테마 복사하기"
 categories:
   - blog
+tags:
+  - blog
 ---
 
 ## 1. `닉네임.github.io` 레포지토리 만들기
