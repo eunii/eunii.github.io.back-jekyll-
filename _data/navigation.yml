@@ -27,3 +27,11 @@ trip:
       - title: 헝가리
         url: /docs/ui-text/
       - title: 오스트리아
+
+tec:
+  - title: TECHNOLOGY
+    children:
+      - title: java
+        url: categories/tec/java
+      - title: blog
+        url: categories/blog/
