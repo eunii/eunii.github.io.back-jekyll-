@@ -32,6 +32,6 @@ tec:
   - title: TECHNOLOGY
     children:
       - title: java
-        url: categories/tec/java
+        url: categories/java/
       - title: blog
         url: categories/blog/
