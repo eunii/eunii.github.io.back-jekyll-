@@ -1,5 +1,5 @@
 ---
-title: 기술
+title: Java의 정석
 layout: category
 permalink: /categories/java/
 taxonomy: java
