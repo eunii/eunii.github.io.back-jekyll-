@@ -1,5 +1,5 @@
 ---
-title: "Posts by tab"
+title: "Posts by tag"
 layout: tags
 permalink: /tags/
 author_profile: false
