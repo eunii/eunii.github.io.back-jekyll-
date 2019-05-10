@@ -5,4 +5,6 @@ permalink: /categories/trip/
 entries_layout: grid
 classes: wide
 taxonomy: trip
+sidebar: 
+    nav: "trip"
 ---
