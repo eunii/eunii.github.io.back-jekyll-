@@ -33,5 +33,7 @@ tec:
     children:
       - title: java
         url: categories/java/
-      - title: blog
+      - title: git
         url: categories/blog/
+      - title: sql
+        url: categories/sql/
